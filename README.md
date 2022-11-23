@@ -47,4 +47,5 @@ Open your preferred command line on your local machine (CMDer for Windows and ot
 - https://tex.stackexchange.com/questions/254785/e-vs-exp-in-display-mode Accessed on 19 Nov 2022)
 - https://en.wikipedia.org/wiki/Normal_distribution (Accessed on 01 Nov 2022)
 - https://en.wikipedia.org/wiki/Continuous_or_discrete_variable (Accessed on 19 Nov 2022)
+- https://statisticsbyjim.com/probability/probability-density-function/ (Accessed on 20 Nov 2022)
 
