@@ -7,17 +7,28 @@
 ## Introduction<p>
 ---
 
-This repository was created for the assessment project on Normal Distribution at ATU Winter Semester 2022 for Dr. Ian McCloughlin's module on Fundamentals of Data Analysis.  
+This repository was created for the assessment of "Fundamentals of Data Analysis" module in Winter Semester 2022 at Atlantic Techonological University (ATU) under HDip in Computing in Data Analytics, led by Dr. Ian McCloughlin.
+
+This repository contains the following content:
+1. **Normal Distribution folder**<p>
+This folder includes a Jupyter Notebook explaining the main concepts of the Normal Distribution using python numpy package, python code and plots for visualization.<p>
+2. **Practicals folder**<p>
+This folder includes one csv file (morley.csv) and 05 Jupyter Notebooks, one for each topics discussed during this module:
+> * Information
+> * Randomness
+> * Bias
+> * Outliers
+> * Cleansing<p>
+Each notebook includes notes from the lectures and solutions for the corresponding exercises. The csv file is kept in this folder as it is part of one of the exercises <p>
+3. README file
 
 ## Environment - System Requirement<p>
 ---
-This project is presented in a Jupyter Notebook which is part of this repository.  
+The majority of the content in this repository is presented in Jupyter Notebooks which can be accessed via alternative solutions depending on the level of activity desired while reviewing the notebooks.  
 
-There are multiple solution for running the jupyter notebook.
+**Option A - Installation of the necessary environment**<p>
 
-*Option A - Installation of the necessary environment*<p>
-
-In order to run and/or modify the notebook on a local machine, the latest version of Python is required.  
+In order to run and/or modify the notebook on a local machine, the latest version of Python is recommended/required.  
 An easy way to obtained/install python may be achieved by downloading the Anaconda open source package.  
 > **Anaconda** is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment.  
 The distribution includes data-science packages suitable for Windows, Linux, and macOS.  
@@ -27,24 +38,55 @@ Following the installation of Python the Jupyter Notebook may be downloaded to t
 > **Step 1**<p>
 Open your preferred command line on your local machine (CMDer for Windows and other built-in terminals for Linux and Mac OS)<p>
 > **Step 2**<p>
->Navigate to the folder where the jupyter notebook was downloaded as Normal_Distribution_Project_Winter 2022-23.ipynb<p>
+>Navigate to the folder where the jupyter notebook(s) was(were) downloaded.<p>
 > **Step 3** <p>
-> Type command jupyter notebook and press enter which should open a new screen with the jupyter notebook content.<p>
+> Type command *jupyter notebook* and press enter which should open a new screen with the jupyter notebook content.<p>
 
-*Option B - Viewing the notebook in the cloud*
+**Option B - Viewing the notebook in the cloud**<p>
 
-<p>
-
-> **nbviewer** is a web application that lets a URL to be entered of a Jupyter Notebook file, it renders that notebook as a static HTML web page, and gives you stable link to that page which then can be shared with others. <p> nbviewer is an open source project under the larger Project Jupyter initiative along with other projects like Jupyter Notebook, JupyterLab, and JupyterHub.<p> Here is the static link to my Jupyter Notebook:<p> https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb
+> **nbviewer** is a web application that lets a URL to be entered of a Jupyter Notebook file, it renders that notebook as a static HTML web page, and gives you stable link to that page which then can be shared with others. <p> nbviewer is an open source project under the larger Project Jupyter initiative along with other projects like Jupyter Notebook, JupyterLab, and JupyterHub.<p> Here is the static link to my Jupyter Notebooks:<p> 
+1. Normal Distribution Project:<p>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb)<p>
+https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb<p>
+2. Practicals:<p>
+2.1 Information:<p>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/01%20-%20Information-exercises.ipynb)<p>
+https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/01%20-%20Information-exercises.ipynb<p>
+2.2 Randomness:<p>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/02-Randomness.ipynb)<p>
+https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/02-Randomness.ipynb<p>
+2.3 Bias:<p>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/03-Bias.ipynb)<p>
+https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/03-Bias.ipynb<p>
+2.4 Outliers:<p>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/04%20Outliers_PDF_Percentile_Quartile_Boxplots_DataSet.ipynb)<p>
+https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/04%20Outliers_PDF_Percentile_Quartile_Boxplots_DataSet.ipynb<p>
+2.5 Cleansing:<p>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/05_Cleansing.ipynb)<p>
+https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/05_Cleansing.ipynb
 
 > **Binder** is a service provided by the Binder Project, which is a member of the Project Jupyter open source ecosystem. It allows sharing a public Github Repository jupyter notebook file in a static manner. The code can be run, but no changes will be posted to the file. No collaboration is possible with this viewing option.<p>
-## Table of Content:
----
->
-1. Definition of Normal Distribution
-2. Generating sample of a random data
-2. Visualization
->
+1. Normal Distribution Project:<p>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb/HEAD)<p>
+Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb/HEAD<p>
+
+2. Practicals:<p>
+2.1 Information:<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/01%20-%20Information-exercises.ipynb/HEAD)<p>
+Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/01%20-%20Information-exercises.ipynb/HEAD<p>
+2.2 Randomness:<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/02-Randomness.ipynb/HEAD)<p>
+Link:https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/02-Randomness.ipynb/HEAD<p>
+2.3 Bias:<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/03-Bias.ipynb/HEAD)<p>
+Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/03-Bias.ipynb/HEAD<p>
+2.4 Outliers:<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/04%20Outliers_PDF_Percentile_Quartile_Boxplots_DataSet.ipynb/HEAD)<p>
+Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/04%20Outliers_PDF_Percentile_Quartile_Boxplots_DataSet.ipynb/HEAD<p>
+2.5 Cleansing:<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/05_Cleansing.ipynb/HEAD)<p>
+Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/05_Cleansing.ipynb/HEAD<p>
 ## References
 ---
 <p>
