@@ -5,7 +5,6 @@
 👤 **Eva Czeyda-Pommersheim**
 
 ## Introduction<p>
----
 
 This repository was created for the assessment of "Fundamentals of Data Analysis" module in Winter Semester 2022 at Atlantic Techonological University (ATU) under HDip in Computing in Data Analytics, led by Dr. Ian McCloughlin.
 
@@ -20,10 +19,10 @@ This folder includes one csv file (morley.csv) and 05 Jupyter Notebooks, one for
 > * Outliers
 > * Cleansing<p>
 Each notebook includes notes from the lectures and solutions for the corresponding exercises. The csv file is kept in this folder as it is part of one of the exercises <p>
-3. README file
+3. **README file**
 
 ## Environment - System Requirement<p>
----
+
 The majority of the content in this repository is presented in Jupyter Notebooks which can be accessed via alternative solutions depending on the level of activity desired while reviewing the notebooks.  
 
 **Option A - Installation of the necessary environment**<p>
@@ -87,9 +86,7 @@ Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob
 2.5 Cleansing:<p>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/05_Cleansing.ipynb/HEAD)<p>
 Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Practicals/05_Cleansing.ipynb/HEAD<p>
-## References
----
-<p>
+## References<p>
 
 - https://www.anaconda.com/products/distribution (Accessed  on 16 Nov 2022)
 
