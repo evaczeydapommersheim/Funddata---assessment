@@ -9,8 +9,8 @@
 This repository was created for the assessment of "Fundamentals of Data Analysis" module in Winter Semester 2022 at Atlantic Techonological University (ATU) under HDip in Computing in Data Analytics, led by Dr. Ian McCloughlin.
 
 This repository contains the following content:
-1. **Normal Distribution folder**<p>
-This folder includes a Jupyter Notebook explaining the main concepts of the Normal Distribution using python numpy package, python code and plots for visualization.<p>
+1. **Normal Distribution Project folder**<p>
+This folder includes a Project Jupyter Notebook explaining the main concepts of the Normal Distribution using python numpy package, python code and plots for visualization.<p>
 2. **Practicals folder**<p>
 This folder includes one csv file (morley.csv) and 05 Jupyter Notebooks, one for each topics discussed during this module:
 > * Information
@@ -101,4 +101,11 @@ Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob
 - https://en.wikipedia.org/wiki/Normal_distribution (Accessed on 01 Nov 2022)
 - https://en.wikipedia.org/wiki/Continuous_or_discrete_variable (Accessed on 19 Nov 2022)
 - https://statisticsbyjim.com/probability/probability-density-function/ (Accessed on 20 Nov 2022)
+- https://medium.illumidesk.com/jupyter-notebook-little-known-tricks-b0866a558017 (Accessed on 18 Dec 2022)
+- https://www.investopedia.com/terms/n/normaldistribution.asp (Accessed on 27 Dec 2022)
+- https://www.britannica.com/science/function-mathematics/Inverse-functions (Accessed on 27 Dec 2022)
+- https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.random.html 
+- https://numpy.org/doc/stable/reference/random/generator.html
+- https://stackoverflow.com/questions/4971269/how-to-pick-a-new-color-for-each-plotted-line-within-a-figure-in-matplotlib
+- 
 
