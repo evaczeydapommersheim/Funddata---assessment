@@ -95,7 +95,7 @@ Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob
 - https://www.dataschool.io/cloud-services-for-jupyter-notebook/ (Accessed on 17 Nov 2022)
 - https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html Accessed on 27 Nov 2022
 
-- https://www.youtube.com/watch?v=ZOgoMbt26BU (Accessed on 17 Nov 2022)
+- How to insert mathematical equation in Jupyter Notebook : Jupyter Notebook Tutorial Series; https://www.youtube.com/watch?v=ZOgoMbt26BU (Accessed on 17 Nov 2022)
 - https://tex.stackexchange.com/questions/563170/how-to-write-pdf-of-normal-distribution (Accessed on 19 Nov 2022)
 - https://tex.stackexchange.com/questions/254785/e-vs-exp-in-display-mode Accessed on 19 Nov 2022)
 - https://en.wikipedia.org/wiki/Normal_distribution (Accessed on 01 Nov 2022)
