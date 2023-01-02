@@ -108,7 +108,12 @@ Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob
 - https://numpy.org/doc/stable/reference/random/generator.html
 - https://stackoverflow.com/questions/4971269/how-to-pick-a-new-color-for-each-plotted-line-within-a-figure-in-matplotlib
 - Omar Eidous & Jawaher Abu-Hawwas (2021) An accurate approximation for the standard normal distribution function, Journal of Information and Optimization Sciences, 42:1, 17-27, DOI: 10.1080/02522667.2019.1661642 (Accessed on 29th Dec 2022)
-- Illowsky, B., 2018. The Standard Normal Distribution. Adapted By Darlene Young Introductory Statistics. (Accessed on 30 Dec 2022)
-- Mishra P, Pandey CM, Singh U, Gupta A, Sahu C, Keshri A. Descriptive statistics and normality tests for statistical data. Ann Card Anaesth. 2019 Jan-Mar;22(1):67-72. doi: 10.4103/aca.ACA_157_18. PMID: 30648682; PMCID: PMC6350423. (Accessed on 30 Dec 2022)
+- Illowsky, B., 2018. The Standard Normal Distribution. Adapted By Darlene Young Introductory Statistics. [https://psu.pb.unizin.org/introductorystatyoungsu18/chapter/introduction-to-the-normal-distribution/] (Accessed on 30 Dec 2022)
+- Mishra P, Pandey CM, Singh U, Gupta A, Sahu C, Keshri A. Descriptive statistics and normality tests for statistical data. Ann Card Anaesth. 2019 Jan-Mar;22(1):67-72. doi: 10.4103/aca.ACA_157_18. PMID: 30648682; PMCID: PMC6350423. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350423/] (Accessed on 30 Dec 2022)
+- https://www.simplilearn.com/tutorials/statistics-tutorial/probability-density-function (Accessed on 27 Dec 2022)
+- https://www.simplilearn.com/tutorials/statistics-tutorial/central-limit-theorem
+- https://en.wikipedia.org/wiki/Normal_distribution#Standard_normal_distribution
+- Stephanie Glen. "Normal Distributions (Bell Curve): Definition, Word Problems" From StatisticsHowTo.com: Elementary Statistics for the rest of us! https://www.statisticshowto.com/probability-and-statistics/normal-distributions/
+- Bhandari, P. (2022, November 17). The Standard Normal Distribution | Examples, Explanations, Uses. Scribbr. Retrieved December 30, 2022, from https://www.scribbr.com/statistics/standard-normal-distribution/
 
 
