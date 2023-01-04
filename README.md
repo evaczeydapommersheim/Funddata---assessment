@@ -115,5 +115,5 @@ Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob
 - https://en.wikipedia.org/wiki/Normal_distribution#Standard_normal_distribution
 - Stephanie Glen. "Normal Distributions (Bell Curve): Definition, Word Problems" From StatisticsHowTo.com: Elementary Statistics for the rest of us! https://www.statisticshowto.com/probability-and-statistics/normal-distributions/
 - Bhandari, P. (2022, November 17). The Standard Normal Distribution | Examples, Explanations, Uses. Scribbr. Retrieved December 30, 2022, from https://www.scribbr.com/statistics/standard-normal-distribution/
-- test
+- 
 
