@@ -103,8 +103,8 @@ https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main
 [20] What Is Central Limit Theorem, Its Significance & Uses, Avijeet Biswal Dec 2022, © 2009-2023 - Simplilearn Solutions, [https://www.simplilearn.com/tutorials/statistics-tutorial/central-limit-theorem]<p>
 [21] Stephanie Glen. "Normal Distributions (Bell Curve): Definition, Word Problems" From StatisticsHowTo.com: Elementary Statistics for the rest of us! (Accessed 30 Dec 2022) https://www.statisticshowto.com/probability-and-statistics/normal-distributions/<p>
 [22] Bhandari, P. (2022, November 17). The Standard Normal Distribution | Examples, Explanations, Uses. Scribbr. (Accessed 30 Dec 2022), from https://www.scribbr.com/statistics/standard-normal-distribution/<p>
-[23] Python – 68-95-99.7 rule in Statistics, @cosine1509 Sep 2021, GeeksforGeeks, [https://www.geeksforgeeks.org/python-68-95-99-7-rule-in-statistics/] (Accessed on 03 Jan 2023)
-[24] 68–95–99.7 rule, From Wikipedia, the free encyclopedia, Wikipedia 2023, [https://en.wikipedia.org/wiki/68–95–99.7_rule] (Accessed on 03 Jan 2023)
-[25] Euler's Number (e) Explained, How It Is Used in Finance, Will Kenton Feb 2022, Investopedia, part of the Dotdash Meredith publishing family [https://www.investopedia.com/terms/e/eulers-constant.asp](Accessed on 29 Dec 2022)
-[26] Pi, from Wikipedia, the free encyclopedia, Wikipedia 2023, [https://en.wikipedia.org/wiki/Pi] (Accessed on 29 Dec 2022)
-[27] Standard normal table, from Wikipedia, the free encyclopedia, Wikipedia 2023 [https://en.wikipedia.org/wiki/Standard_normal_table] (Accessed on 07 Jan 2023)
+[23] Python – 68-95-99.7 rule in Statistics, @cosine1509 Sep 2021, GeeksforGeeks, [https://www.geeksforgeeks.org/python-68-95-99-7-rule-in-statistics/] (Accessed on 03 Jan 2023)<p>
+[24] 68–95–99.7 rule, From Wikipedia, the free encyclopedia, Wikipedia 2023, [https://en.wikipedia.org/wiki/68–95–99.7_rule] (Accessed on 03 Jan 2023)<p>
+[25] Euler's Number (e) Explained, How It Is Used in Finance, Will Kenton Feb 2022, Investopedia, part of the Dotdash Meredith publishing family [https://www.investopedia.com/terms/e/eulers-constant.asp](Accessed on 29 Dec 2022)<p>
+[26] Pi, from Wikipedia, the free encyclopedia, Wikipedia 2023, [https://en.wikipedia.org/wiki/Pi] (Accessed on 29 Dec 2022)<p>
+[27] Standard normal table, from Wikipedia, the free encyclopedia, Wikipedia 2023 [https://en.wikipedia.org/wiki/Standard_normal_table] (Accessed on 07 Jan 2023)<p>
