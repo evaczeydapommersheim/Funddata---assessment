@@ -67,8 +67,8 @@ https://nbviewer.org/github/evaczeydapommersheim/Funddata---assessment/blob/main
 > **Binder** is a service provided by the Binder Project, which is a member of the Project Jupyter open source ecosystem. It allows sharing a public Github Repository jupyter notebook file in a static manner. The code can be run, but no changes will be posted to the file. No collaboration is possible with this viewing option.<p>
 1. Normal Distribution Project:<p>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb/HEAD)<p>
-Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/blob/main/Normal%20Distribution/Normal_Distribution_Project_Winter%202022-23.ipynb/HEAD<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/tree/main/Normal%20Distribution/HEAD)<p>
+Link: https://mybinder.org/v2/gh/evaczeydapommersheim/Funddata---assessment/tree/main/Normal%20Distribution/HEAD<p>
 
 2. Practicals:<p>
 2.1 Information:<p>
